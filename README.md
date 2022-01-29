@@ -3,8 +3,7 @@
 I started this repository to take notes of my Android (app and framework) learning, including:
 
 - Books
-- Articles
-- Documents
-- Blogs
-- Tutorials (Codelabs)
+- Articles (documents, blogs)
+- Tutorials (codelabs)
 - Projects
+- Notes
