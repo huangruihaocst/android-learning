@@ -5,5 +5,4 @@ I started this repository to take notes of my Android (app and framework) learni
 - Books
 - Articles (documents, blogs)
 - Tutorials (codelabs)
-- Projects
 - Notes
